@@ -9,3 +9,5 @@ Points - 40/40
 - Firebase Auth - user authentication, Firestore - database
 
 ## Demo
+
+https://github.com/lukasvecerka23/questbuddy/assets/43578229/d75fc4bd-292c-4597-8c00-6637f32cdd50
