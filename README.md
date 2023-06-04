@@ -5,6 +5,7 @@ There are several funcionalities such as filtering, creating and checking habits
 Points - 40/40
 
 ## Technologies
+- iOS 16.0+
 - Swift, SwiftUI, Combine
 - Firebase Auth - user authentication, Firestore - database
 
