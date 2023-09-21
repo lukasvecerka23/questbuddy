@@ -11,4 +11,4 @@ Points - 40/40
 
 ## Demo
 
-https://github.com/lukasvecerka23/questbuddy/assets/43578229/d75fc4bd-292c-4597-8c00-6637f32cdd50
+https://github.com/lukasvecerka23/questbuddy/assets/43578229/04a2f837-e1f5-455e-9b0f-bfdbfaad531c
